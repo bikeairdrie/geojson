@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Closure between markers for 40th avenue overpass construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00991201400755,
+          51.25653351543359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Closure between markers for 40th avenue overpass construction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00881230831146,
+          51.256528479576204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Gap in pathway of ~12\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.01646196842194,
+          51.25565391064401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Gap in pathway of ~12\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0161669254303,
+          51.25551626104341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Gap in pathway of ~12\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0160596370697,
+          51.255784845247454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fbe407",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "description": "Bridge over Nose Creek closed temporarily."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.00755167007446,
+          51.270467298586894
+        ]
+      }
+    }
+  ]
+}
